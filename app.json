@@ -5,7 +5,7 @@
   "repository": "https://github.com/heroku/ruby-getting-started",
   "keywords": ["ruby", "rails" ],
   "addons": [ {      
-      "plan": "mongolab:shared-cluster-1",
+      "plan": "mongolab:shared-cluster-2",
       "as": "MONGO"
     }]
 }
